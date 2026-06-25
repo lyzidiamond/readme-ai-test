@@ -3,6 +3,8 @@ title: Welcome to AI Test Project
 hidden: false
 ---
 <Callout icon="📘" theme="info">
+  ###
+
   **Template:**  Delete this callout and edit this page with your content and links.
 </Callout>
 
@@ -15,7 +17,7 @@ hidden: false
   <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
 </Cards>
 
-<br />
+edits
 
 ## Recent Releases
 
