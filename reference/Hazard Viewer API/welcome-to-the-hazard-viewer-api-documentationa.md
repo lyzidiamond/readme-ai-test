@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Hazard Viewer API documentation—a
+title: Hazard Viewer API
 deprecated: false
 hidden: false
 metadata:
