@@ -4,3 +4,4 @@ api:
   operationId: get_new-endpoint
 hidden: false
 ---
+Here is an endpoint.
