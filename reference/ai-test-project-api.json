@@ -20,7 +20,20 @@
           "200": {
             "description": "Successful response"
           }
-        }
+        },
+        "parameters": [
+          {
+            "in": "query",
+            "name": "param",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "owl"
+              ]
+            },
+            "description": "New parameter"
+          }
+        ]
       }
     }
   },
