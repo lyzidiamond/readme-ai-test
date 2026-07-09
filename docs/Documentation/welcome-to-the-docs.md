@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Docs
+title: New Guides Page
 deprecated: false
 hidden: false
 metadata:
